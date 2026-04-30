@@ -1,0 +1,9 @@
+sqlalchemy[asyncio]
+asyncpg
+aiosqlite
+aiohttp
+loguru
+python-dotenv
+numpy
+scipy
+solders
