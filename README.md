@@ -34,7 +34,7 @@ Nippet is an advanced Solana MEV & Scraper Trading Bot designed specifically for
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/Nippet.git](https://github.com/yourusername/Nippet.git)
+   git clone [https://github.com/Bellorocks/Nippet.git](https://github.com/Bellorocks/Nippet.git)
    cd Nippet
    ```
 
